@@ -58,7 +58,7 @@ def bothRequests():
 
 
 
-# This ensures that the main is the main project file
+# This ensures that this is the main project file
 # Setting Debug True gets us all the log statements
 if __name__ == "__main__":
     app.run(debug=True)
